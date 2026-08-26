@@ -147,3 +147,41 @@ handling credentials.
 
 Code is released under the [Apache License 2.0](LICENSE). Dataset, model, and
 third-party asset licenses remain with their respective owners.
+
+## Citation
+
+```bibtex
+@article{zhou2025provably,
+  title={Provably Secure Retrieval-Augmented Generation},
+  author={Zhou, Pengcheng and Feng, Yinglun and Yang, Zhongliang},
+  journal={arXiv preprint arXiv:2508.01084},
+  year={2025}
+}
+```
+
+## Citation
+
+If you use SAG or this repository in your research, please cite the relevant
+paper:
+
+```bibtex
+@article{zhou2025provably,
+  title   = {Provably Secure Retrieval-Augmented Generation},
+  author  = {Zhou, Pengcheng and Feng, Yinglun and Yang, Zhongliang},
+  journal = {arXiv preprint arXiv:2508.01084},
+  year    = {2025},
+  url     = {https://arxiv.org/abs/2508.01084}
+}
+```
+
+For the preceding privacy-aware and user-isolated retrieval work, please cite:
+
+```bibtex
+@article{zhou2025privacy,
+  title   = {Privacy-Aware RAG: Secure and Isolated Knowledge Retrieval},
+  author  = {Zhou, Pengcheng and Feng, Yinglun and Yang, Zhongliang},
+  journal = {arXiv preprint arXiv:2503.15548},
+  year    = {2025},
+  url     = {https://arxiv.org/abs/2503.15548}
+}
+```
