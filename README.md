@@ -6,8 +6,15 @@ knowledge-base storage.
 
 ## Publications
 
-- [Provably Secure Retrieval-Augmented Generation](https://arxiv.org/abs/2508.01084)
-- [Privacy-Aware RAG: Secure and Isolated Knowledge Retrieval](https://arxiv.org/abs/2503.15548)
+| Publication | arXiv | Focus and repository mapping |
+| --- | --- | --- |
+| *Privacy-Aware RAG: Secure and Isolated Knowledge Retrieval* | [`2503.15548`](https://arxiv.org/abs/2503.15548) | Foundational user-isolated encrypted retrieval design; Method A and Method B; initial security and performance analysis. |
+| *Provably Secure Retrieval-Augmented Generation* | [`2508.01084`](https://arxiv.org/abs/2508.01084) | SAG architecture and threat model; strengthened formal security analysis; broader leakage, poisoning, embedding-inversion, and efficiency evaluation. |
+
+This repository accompanies these two closely related works. The first paper
+introduces the privacy-aware, user-isolated retrieval design and its two
+encryption methods. The later paper presents the framework under the **SAG**
+name and broadens its formalization and empirical security evaluation.
 
 If this repository supports your work, please cite the relevant paper using the
 entries in [`CITATION.cff`](CITATION.cff).
