@@ -150,38 +150,31 @@ third-party asset licenses remain with their respective owners.
 
 ## Citation
 
-```bibtex
-@article{zhou2025provably,
-  title={Provably Secure Retrieval-Augmented Generation},
-  author={Zhou, Pengcheng and Feng, Yinglun and Yang, Zhongliang},
-  journal={arXiv preprint arXiv:2508.01084},
-  year={2025}
-}
-```
-
-## Citation
-
-If you use SAG or this repository in your research, please cite the relevant
-paper:
+If you use SAG or this implementation in your research, please cite the
+relevant paper:
 
 ```bibtex
 @article{zhou2025provably,
-  title   = {Provably Secure Retrieval-Augmented Generation},
-  author  = {Zhou, Pengcheng and Feng, Yinglun and Yang, Zhongliang},
-  journal = {arXiv preprint arXiv:2508.01084},
-  year    = {2025},
-  url     = {https://arxiv.org/abs/2508.01084}
+  title         = {Provably Secure Retrieval-Augmented Generation},
+  author        = {Zhou, Pengcheng and Feng, Yinglun and Yang, Zhongliang},
+  year          = {2025},
+  eprint        = {2508.01084},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.CR},
+  url           = {https://arxiv.org/abs/2508.01084}
 }
 ```
 
-For the preceding privacy-aware and user-isolated retrieval work, please cite:
+For the preceding privacy-aware RAG work, please cite:
 
 ```bibtex
 @article{zhou2025privacy,
-  title   = {Privacy-Aware RAG: Secure and Isolated Knowledge Retrieval},
-  author  = {Zhou, Pengcheng and Feng, Yinglun and Yang, Zhongliang},
-  journal = {arXiv preprint arXiv:2503.15548},
-  year    = {2025},
-  url     = {https://arxiv.org/abs/2503.15548}
+  title         = {Privacy-Aware RAG: Secure and Isolated Knowledge Retrieval},
+  author        = {Zhou, Pengcheng and Feng, Yinglun and Yang, Zhongliang},
+  year          = {2025},
+  eprint        = {2503.15548},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.CR},
+  url           = {https://arxiv.org/abs/2503.15548}
 }
 ```
