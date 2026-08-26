@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use SAG, please cite the relevant paper."
+title: "Provably Secure Retrieval-Augmented Generation"
+type: software
+authors:
+  - family-names: Zhou
+    given-names: Pengcheng
+  - family-names: Feng
+    given-names: Yinglun
+  - family-names: Yang
+    given-names: Zhongliang
+repository-code: "https://github.com/PKQZPC/Provably-Secure-RAG"
+license: Apache-2.0
+preferred-citation:
+  type: article
+  title: "Provably Secure Retrieval-Augmented Generation"
+  authors:
+    - family-names: Zhou
+      given-names: Pengcheng
+    - family-names: Feng
+      given-names: Yinglun
+    - family-names: Yang
+      given-names: Zhongliang
+  year: 2025
+  url: "https://arxiv.org/abs/2508.01084"
+references:
+  - type: article
+    title: "Privacy-Aware RAG: Secure and Isolated Knowledge Retrieval"
+    authors:
+      - family-names: Zhou
+        given-names: Pengcheng
+      - family-names: Feng
+        given-names: Yinglun
+      - family-names: Yang
+        given-names: Zhongliang
+    year: 2025
+    url: "https://arxiv.org/abs/2503.15548"

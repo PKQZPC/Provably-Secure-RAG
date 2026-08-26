@@ -1,0 +1,31 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Python and notebooks
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+Comunication_*.ipynb
+
+# Generated and machine-local artifacts
+Embeddings/
+Evaluation_Materials/
+Logs/
+Results/
+tmp/
+Storage/
+Datasets/
+*.pkl
+Scripts/=*
+Scripts/
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
