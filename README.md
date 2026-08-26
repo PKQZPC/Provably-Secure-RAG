@@ -4,8 +4,6 @@ Official implementation of **SAG**, a framework for privacy-preserving and
 user-isolated retrieval-augmented generation with formally analyzed encrypted
 knowledge-base storage.
 
-## Publications
-
 | Publication | arXiv | Focus and repository mapping |
 | --- | --- | --- |
 | *Privacy-Aware RAG: Secure and Isolated Knowledge Retrieval* | [`2503.15548`](https://arxiv.org/abs/2503.15548) | User-isolated encrypted retrieval via isolated AES encryption and chained dynamic key derivation. |
